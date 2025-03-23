@@ -1,6 +1,6 @@
 version 4 de l'os,
 - intégre les fonctionnalité des bouttons
-- ajout d'un mode romaing accéléré pour les applications nécessitant un haut niveau de live en zone multi reseau (rallie, etc).
+- ajout d'un mode roaming accéléré pour les applications nécessitant un haut niveau de live en zone multi reseau (rallie, etc).
 config :
 5 seconde prise de point
 send gsm 15 seconde, 2 min sat
