@@ -1,6 +1,8 @@
-version 4 de l'os,
-- intégre les fonctionnalité des bouttons
-- ajout d'un mode roaming accéléré pour les applications nécessitant un haut niveau de live en zone multi reseau (rallie, etc).
-config :
-5 seconde prise de point
-send gsm 1 min, 2 min sat
+Version 4 de l'OS
+Nouveautés :
+- Intégration des fonctionnalités des boutons.
+- Ajout d'un mode de roaming accéléré pour les applications nécessitant un haut niveau de réactivité en zones multi-réseaux (rallye, etc.).
+Configuration :
+- Prise de point : 5 secondes
+- Envoi GSM : toutes les 1 min
+- Envoi satellite : toutes les 2 minutes
