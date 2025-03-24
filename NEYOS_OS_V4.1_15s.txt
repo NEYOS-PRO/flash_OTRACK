@@ -1,0 +1,2 @@
+ajout de l'iccid dans l'identifiant de la balise
+config GSM 15 secondes
