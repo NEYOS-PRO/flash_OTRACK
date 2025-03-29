@@ -1,0 +1,3 @@
+Tracker configuration : 
+GNSS : 1s d'intervale
+GSM : intervale d'envoie 15s
