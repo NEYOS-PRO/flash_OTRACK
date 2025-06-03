@@ -1,5 +1,0 @@
-Tracker configuration : 
-GNSS : 1s d'intervale
-GSM : intervale d'envoie 5s
-Sattelite : intervale d'envoie : 20s , 
-retour en GSM au bout de  20minR
