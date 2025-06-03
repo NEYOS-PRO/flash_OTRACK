@@ -1,3 +1,0 @@
-Tracker configuration : 
-GNSS : 15s d'intervale
-Sattelite : intervale d'envoie : 30s
